@@ -1,7 +1,7 @@
 """
 tests for calc app
 """
-import calc
+import calculator
 
 class TestCalculatorApp:
     def test_add(self):
